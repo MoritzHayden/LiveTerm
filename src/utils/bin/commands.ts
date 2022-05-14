@@ -67,7 +67,7 @@ export const cd = async (args: string[]): Promise<string> => {
 
 export const mkdir = async (args: string[]): Promise<string> => {
   return `Sorry, I'm out of server space! Please consider <u><a href="${config.donate_urls.github_sponsors}" target="_blank">donating</a></u>.`;
-}
+};
 
 export const date = async (args: string[]): Promise<string> => {
   return new Date().toString();
