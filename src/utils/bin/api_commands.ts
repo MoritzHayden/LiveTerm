@@ -10,7 +10,7 @@ export const projects = async (args: string[]): Promise<string> => {
   return projects
     .map(
       (repo) =>
-        `${repo.name} - <a class="text-light-blue dark:text-dark-blue underline" href="${repo.html_url}" target="_blank">${repo.html_url}</a>`,
+        `${repo.name} - <u><a class="text-light-blue dark:text-dark-blue underline" href="${repo.html_url}" target="_blank">${repo.html_url}</a></u>`,
     )
     .join('\n');
 };

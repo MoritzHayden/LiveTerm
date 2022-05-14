@@ -1,20 +1,21 @@
 {
-  "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-  "title": "LiveTerm",
-  "name": "John Doe",
-  "ascii": "liveterm",
+  "readmeUrl": "https://raw.githubusercontent.com/MoritzHayden/MoritzHayden/main/README.md",
+  "title": "Hayden Moritz | LiveTerm",
+  "name": "Hayden Moritz",
   "social": {
-    "github": "github",
-    "linkedin": "linkedin"
+    "github": "moritzhayden",
+    "linkedin": "moritzhayden",
+    "linktree": "haydenmoritz"
   },
-  "email": "contact@email.com",
+  "email": "me@haydenmoritz.com",
   "ps1_hostname": "liveterm",
   "ps1_username": "visitor",
-  "repo": "https://github.com/Cveinnt/LiveTerm",
-  "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
+  "repo": "https://github.com/MoritzHayden/LiveTerm",
+  "resume_url": "https://github.com/MoritzHayden/MoritzHayden/blob/main/Resume.pdf",
+  "website": "https://linktr.ee/HaydenMoritz",
   "donate_urls": {
-    "paypal": "https://paypal.me/cveinnt",
-    "patreon": "https://patreon.com/cveinnt"
+    "github_sponsors": "https://github.com/sponsors/moritzhayden",
+    "paypal": "https://paypal.me/haydenmoritz1"
   },
   "colors": {
     "light": {
