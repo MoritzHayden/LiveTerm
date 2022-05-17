@@ -58,7 +58,7 @@ export const whoami = async (args: string[]): Promise<string> => {
 };
 
 export const ls = async (args: string[]): Promise<string> => {
-  return `passwords\npersonal projects\nsecrets`;
+  return `backdoors\nhoneypots\npasswords\nprivateinfo\nsecrets`;
 };
 
 export const cd = async (args: string[]): Promise<string> => {
