@@ -17,6 +17,10 @@ ${c}\n
 };
 
 // About
+export const about = async (args: string[]): Promise<string> => {
+  return `Hello, my name is Hayden Moritz 👋\nI'm a Software Engineer with 4+ years of full-stack development experience architecting, building, and securing highly resilient web and mobile applications.`;
+};
+
 export const resume = async (args: string[]): Promise<string> => {
   window.open(`${config.resume_url}`);
   return 'Opening resume...';
@@ -75,6 +79,10 @@ export const date = async (args: string[]): Promise<string> => {
 
 export const sudo = async (args?: string[]): Promise<string> => {
   return `How about you sudon't?`;
+};
+
+export const git = async (args: string[]): Promise<string> => {
+  return `fatal: not a git repository (or any of the parent directories): .git`;
 };
 
 // Banner
