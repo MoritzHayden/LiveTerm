@@ -1,4 +1,4 @@
-# [💻 LiveTerm - build terminal styled websites in minutes!](https://liveterm.vercel.app)
+# [💻 LiveTerm - My terminal styled website!](https://haydenmoritz.vercel.app)
 
 This repo hosts the code for my online "LiveTerm" website! Feel free to look around.
 
