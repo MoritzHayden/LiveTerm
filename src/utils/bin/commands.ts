@@ -29,7 +29,7 @@ export const resume = async (args: string[]): Promise<string> => {
 // Donate
 export const donate = async (args: string[]): Promise<string> => {
   return `Thank you for your interest! Here are the ways you can support my work:
-  - <u><a class="text-light-blue dark:text-dark-blue underline" href="${config.donate_urls.github_sponsors}" target="_blank">GitHub Sponsors</a></u>
+  - <u><a class="text-light-blue dark:text-dark-blue underline" href="${config.donate_urls.buy_me_a_coffee}" target="_blank">Buy Me a Coffee</a></u>
   - <u><a class="text-light-blue dark:text-dark-blue underline" href="${config.donate_urls.paypal}" target="_blank">Paypal</a></u>
 `;
 };
@@ -70,7 +70,7 @@ export const cd = async (args: string[]): Promise<string> => {
 };
 
 export const mkdir = async (args: string[]): Promise<string> => {
-  return `Sorry, I'm out of server space! Please consider <u><a href="${config.donate_urls.github_sponsors}" target="_blank">donating</a></u>.`;
+  return `Sorry, I'm out of server space! Please consider <u><a href="${config.donate_urls.buy_me_a_coffee}" target="_blank">donating</a></u>.`;
 };
 
 export const date = async (args: string[]): Promise<string> => {
