@@ -4,15 +4,14 @@
   "name": "Hayden Moritz",
   "social": {
     "github": "moritzhayden",
-    "linkedin": "moritzhayden",
-    "linktree": "haydenmoritz"
+    "linkedin": "moritzhayden"
   },
   "email": "me@haydenmoritz.com",
   "ps1_hostname": "liveterm",
   "ps1_username": "visitor",
   "repo": "https://github.com/MoritzHayden/LiveTerm",
   "resume_url": "https://docs.google.com/viewer?url=https://raw.githubusercontent.com/moritzhayden/moritzhayden/main/Resume.pdf",
-  "website": "https://linktr.ee/HaydenMoritz",
+  "website_url": "https://haydenmoritz.com",
   "donate_urls": {
     "github_sponsors": "https://github.com/sponsors/moritzhayden",
     "paypal": "https://paypal.me/haydenmoritz1"
