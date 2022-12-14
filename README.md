@@ -1,4 +1,4 @@
-# [💻 LiveTerm - My terminal styled website!](https://liveterm.haydenmoritz.com/)
+# [💻 LiveTerm - My terminal styled website!](https://liveterm.hmoritz.dev/)
 
 This repo hosts the code for my online "LiveTerm" website! Feel free to look around.
 
@@ -42,7 +42,7 @@ whoami
 
 ## 🌐 Deployed on Vercel
 
-Access the site on Vercel here: https://liveterm.haydenmoritz.com/
+Access the site on Vercel here: https://liveterm.hmoritz.dev/
 
 ## Credit
 
